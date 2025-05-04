@@ -6,12 +6,12 @@ anki note type for mining
 
 | Field              | Value                                             |
 | ------------------ | ------------------------------------------------- |
-| Front         | `{expression}`                                    |
-| Glossary | `{furigana-plain}`                                |
-| Sentence  | `{reading}`                                       |
-| Picture    | `{audio}`                                         |
-| Audio    | `{popup-selection-text}`                                |
-| SentenceAudio           | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}` |
-| Graph   |                                                   |
-| FreqSort      |                                                   |
-| Source     | `{glossary}`                                      |
+| Front         | `{furigana-plain}`                                    |
+| Glossary | `{popup-selection-text}`                                |
+| Sentence  | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}`                                       |
+| Picture    |                                         |
+| Audio    | `{audio]`                                |
+| SentenceAudio           |  |
+| Graph   | `{pitch-accent-graphs}`                                                  |
+| FreqSort      | `{frequency-harmonic-rank}`                                                   |
+| Source     | `{document-title}`                                      |
