@@ -6,6 +6,10 @@ anki note type for mining based off tigy01's note template
 
 
 
+
+https://github.com/user-attachments/assets/1c86a545-fb66-40e5-87ec-f6e9a9327b3b
+
+
 # features
 - kanji hover
 - frequency list
