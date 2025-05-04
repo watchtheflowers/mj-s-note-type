@@ -2,7 +2,7 @@
 anki note type for mining based off tigy01's note template
 
 
-
+[download](https://github.com/watchtheflowers/mj-s-note-type/blob/main/mj%20auto%20mining.apkg)
 
 
 
