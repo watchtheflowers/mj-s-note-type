@@ -24,5 +24,19 @@ https://github.com/user-attachments/assets/1c86a545-fb66-40e5-87ec-f6e9a9327b3b
 | FreqSort           | `{frequency-harmonic-rank}`                       |
 | Source             | `{document-title}`                                |
 
+# info
+- in order to use this template, you must select / highlight the definition you want, then mine it using yomitan
+<div align="center" style="display: inline-flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/0c5c2cd6-f420-4ba5-a7b8-57e5132c222d" height="300px" />
+  <span style="font-size: 3em;">⟶</span>
+  <img src="https://github.com/user-attachments/assets/e06c5e53-c00e-476d-9634-e05679e42619" height="300px" />
+</div>
+
+
+
+
+
+
+
 # credits
 - tigy01, flare, shiki css, note types etc
