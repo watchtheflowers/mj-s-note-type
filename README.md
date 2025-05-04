@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/1c86a545-fb66-40e5-87ec-f6e9a9327b3b
 - lightweight
 - source info
 - pitch accent graphs
+- works great on anki mobile + droid
 
 | Field              | Value                                             |
 | ------------------ | ------------------------------------------------- |
