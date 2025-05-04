@@ -1,12 +1,10 @@
 # mj's note type
-anki note type for mining based off tigy01, flare, shiki
+anki note type for mining based off tigy01's note template
 
 
 
 
 
-
-https://github.com/user-attachments/assets/b310d2dc-97b8-4240-973d-14bda2ebcadb
 
 # features
 - kanji hover
