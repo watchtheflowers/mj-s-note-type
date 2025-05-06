@@ -10,6 +10,10 @@
 
 
 
+https://github.com/user-attachments/assets/fd300f46-1d50-4a61-89fc-ea409476c86a
+
+
+
 
 a clean anki note type for mining, based on tigy01's note template.
 
@@ -42,7 +46,7 @@ a clean anki note type for mining, based on tigy01's note template.
 ---
 
 ## info
-to use this template, you must also select/highlight the definition you want.
+to use this template, you must also select/highlight the definition you want
 
 ---
 
