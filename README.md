@@ -1,9 +1,11 @@
 # mj note type
+[download](https://raw.githubusercontent.com/watchtheflowers/mj-s-note-type/main/mj%20auto%20mining.apkg)
+
 <img src="https://github.com/user-attachments/assets/7171341b-806a-4c04-b150-75c547f3cd56" width="400">
+
 
 clean anki note type for mining based off tigy01's note template
 
-[download](https://raw.githubusercontent.com/watchtheflowers/mj-s-note-type/main/mj%20auto%20mining.apkg)
 
 
 https://github.com/user-attachments/assets/1c86a545-fb66-40e5-87ec-f6e9a9327b3b
