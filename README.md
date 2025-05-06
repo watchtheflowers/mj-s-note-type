@@ -40,12 +40,6 @@ a clean anki note type for mining, based on tigy01's note template.
 ## info
 to use this template, you must also select/highlight the definition you want.
 
-<div align="left" style="display: inline-flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/0c5c2cd6-f420-4ba5-a7b8-57e5132c222d" height="300px" />
-  <span style="font-size: 3em;">⟶</span>
-  <img src="https://github.com/user-attachments/assets/e06c5e53-c00e-476d-9634-e05679e42619" height="300px" />
-</div>
-
 ---
 
 ## credits
