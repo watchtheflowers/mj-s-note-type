@@ -5,8 +5,7 @@
 
 [donut style](https://github.com/watchtheflowers/mj-s-note-type/releases/download/donut/mj.donut.apkg)
 
-![Screenshot 2025-05-05 212527](https://github.com/user-attachments/assets/8e36e4eb-79b7-4bfa-ba24-fef0ac70085f)
-
+![Screenshot 2025-05-05 215915](https://github.com/user-attachments/assets/202378d9-9e33-455a-ac40-a4ab67fad6e5)
 
 
 
