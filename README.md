@@ -1,11 +1,16 @@
-# mj note type                                                                                                          
-[regular](https://raw.githubusercontent.com/watchtheflowers/mj-s-note-type/main/mj%20auto%20mining.apkg)                              
+# mj note type  
+[regular](https://raw.githubusercontent.com/watchtheflowers/mj-s-note-type/main/mj%20auto%20mining.apkg)
+
+![Screenshot 2025-05-04 023907](https://github.com/user-attachments/assets/6f67938f-caa4-4424-b772-ac758f96410e)
+
 [donut style](https://github.com/watchtheflowers/mj-s-note-type/releases/download/donut/mj.donut.apkg)
 
-<div style="display: inline-flex; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/7171341b-806a-4c04-b150-75c547f3cd56" width="463">
-  <img src="https://github.com/user-attachments/assets/ff72a9be-6688-47b2-b6fd-b5ee9cde6f26" width="400">
-</div>
+![Screenshot 2025-05-05 212527](https://github.com/user-attachments/assets/8e36e4eb-79b7-4bfa-ba24-fef0ac70085f)
+
+
+
+
+
 
 a clean anki note type for mining, based on tigy01's note template.
 
