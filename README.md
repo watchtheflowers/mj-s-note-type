@@ -3,7 +3,7 @@
 
 ![Screenshot 2025-05-04 023907](https://github.com/user-attachments/assets/6f67938f-caa4-4424-b772-ac758f96410e)
 
-[donut](https://github.com/watchtheflowers/mj-s-note-type/blob/main/mj%20donut%20mining.apkg)
+[donut]([https://github.com/watchtheflowers/mj-s-note-type/blob/main/mj%20donut%20mining.apkg](https://github.com/watchtheflowers/mj-s-note-type/releases/download/standard/mj.donut.mining.apkg))
 
 ![Screenshot 2025-05-05 215915](https://github.com/user-attachments/assets/202378d9-9e33-455a-ac40-a4ab67fad6e5)
 
