@@ -1,5 +1,5 @@
 # mj note type  
-[regular]([https://raw.githubusercontent.com/watchtheflowers/mj-s-note-type/main/mj%20auto%20mining.apkg](https://github.com/watchtheflowers/mj-s-note-type/releases/download/standard/mj.auto.mining.apkg))
+[regular]([https://raw.githubusercontent.com/watchtheflowers/mj-s-note-type/main/mj%20auto%20mining.apkg](https://github.com/watchtheflowers/mj-s-note-type/releases/download/standard/mj.auto.mining.apkg)
 
 ![Screenshot 2025-05-04 023907](https://github.com/user-attachments/assets/6f67938f-caa4-4424-b772-ac758f96410e)
 
